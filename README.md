@@ -1,6 +1,6 @@
 # keyboard-input-offset-animation
 
-This is the repository for my medium article [How to animate react-native inputs to avoid covering them with the keyboard]()
+This is the repository for my medium article [How to animate react-native inputs to avoid covering them with the keyboard](https://medium.com/@brooklinjazzmyers/how-to-animate-react-native-inputs-to-avoid-covering-them-with-the-keyboard-8489fa884e6d)
 
 you can try out the [web example](https://keyboard-input-offset-animation.netlify.app/)
 
